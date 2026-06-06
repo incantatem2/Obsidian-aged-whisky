@@ -1,3 +1,8 @@
+### Important:
+My themes will now get published on [carrd](https://obsidian-theme-cafe.carrd.co)
+ and can be downloaded directly as zip files.
+
+
 # aged whisky
 
 Elegant, minimalist dark theme.
