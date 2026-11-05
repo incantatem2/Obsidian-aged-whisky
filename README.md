@@ -15,3 +15,10 @@ dark mode only:
 ![](images/aged-whisky-screenshot.jpg)
 
 
+## Installation
+
+1. Open Obsidian and go to **Settings > Appearance**.
+2. Next to **Themes**, select **Manage**.
+3. Search for "aged whisky", then select **Install and use**.
+
+To install by hand, download `manifest.json` and `theme.css` from the [latest release](https://github.com/incantatem2/Obsidian-aged-whisky/releases/latest). Put both files in a folder named `aged whisky` inside `.obsidian/themes/` in your vault. Then choose the theme under **Settings > Appearance > Themes**.
